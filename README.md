@@ -27,3 +27,5 @@ git clone git@github.com:jdasilvalima/scrumSpeak.git
 https://developer.chrome.com/docs/extensions/mv3/getstarted/
 
 ## Chrome extension UI
+
+![Scrum Speaker UI GIF](https://github.com/jdasilvalima/scrumSpeak/blob/main/uiScrumSpeaker.gif)
