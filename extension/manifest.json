@@ -1,0 +1,10 @@
+{
+  "name": "scrumSpeak Extension",
+  "description": "Selects randomly a team member",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "speak.html",
+    "default_icon": "hello_extensions.png"
+  }
+}
